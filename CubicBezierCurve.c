@@ -1,5 +1,4 @@
-// C program to implement 
-// Cubic Bezier Curve 
+// C program to implementCubic Bezier Curve 
 
 /* install SDL library for running thing code*/
 /* install by using this commamnd line : sudo apt-get install libsdl2-dev */
