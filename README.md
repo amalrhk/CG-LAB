@@ -1,2 +1,2 @@
 # CG-LAB
-All lab programs
+All lab programs:Computer Graphics
