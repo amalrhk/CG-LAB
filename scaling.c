@@ -33,7 +33,7 @@ void scale(int x[], int y[], int sx, int sy)
 	int p[2][1]; 
 
 	// Scaling the triangle 
-	for (int i = 0; i < 3; i++) 
+	for (int i = 0; i < 3;++i) 
 	{ 
 		p[0][0] = x[i]; 
 		p[1][0] = y[i]; 
